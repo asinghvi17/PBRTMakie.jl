@@ -1,0 +1,13 @@
+name = "PBRTMakie"
+uuid = "d6c10dc3-079d-4915-a877-a2452017e41c"
+authors = ["Anshul Singhvi <anshulsinghvi@gmail.com> and contributors"]
+version = "0.0.1-DEV"
+
+[compat]
+julia = "1.6.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
